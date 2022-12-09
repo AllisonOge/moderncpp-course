@@ -13,3 +13,11 @@
 - Lecture_7: Pointers, const with pointers, Stack and Heap, Memory leaks, Dangling pointers
 - Lecture_8: Smart/Unique/Shared pointers, Associative containers, Type casting, Enumeration, Binary files
 - Lecture_9: Templates, Iterators, Exceptions, Program input parameters, OpenCV
+
+
+## Requirements
+
+The dependencies for this project include CMake and GTest.
+
+Run command to install GTest
+`sudo apt install libgtest-dev`
