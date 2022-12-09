@@ -2,3 +2,5 @@
 
 
 void SayHello();
+
+void Greet();

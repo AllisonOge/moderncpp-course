@@ -3,5 +3,6 @@
 
 int main() {
     SayHello();
+    Greet();
     return 0;
 }
