@@ -1,0 +1,7 @@
+project(cmake_test_example)
+cmake_minimum_required(VERSION 3.0)
+
+# location of headers directories
+include_directories(${PROJECT_SOURCE_DIR}/src)
+
+add_subdirectory(${PROJECT_SOURCE_DIR}/src)
